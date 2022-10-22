@@ -45,7 +45,7 @@
     7. '3' - undefined: Output: **NaN**, since 3 can notsubstract undefined, so it will be NaN.
 14. Comparison
     1. ‘2’ > 1:  Output: **true**, since string 2 become number 2 and 2 is greater than 1.
-    2. ‘2’ < ‘12’:  Output: **false**, since it is compared in ASCII table.   
+    2. ‘2’ < ‘12’:  Output: **false**, since the string always compare the first character, since 2 is greater than 1, so it the answer is false.
     3. 2 == ‘2’: Output: **true**, since string 2 become number 2, 2 is equal to 2.
     4. 2 === ‘2’: Output: **false**, since the type is different.
     5. true == 2: Output: **false**, since true is equal to 1, 1 is less than 2.
