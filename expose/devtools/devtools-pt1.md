@@ -4,7 +4,7 @@
 2. Which file initiated the download of the new file?
    * expose.js
 3. What is its file size?
-   * 778kB
+   * 11.7MB
 4. How long did it take to download?
    * 72.80ms
 5. What was your User-Agent for the browser that made the request?
